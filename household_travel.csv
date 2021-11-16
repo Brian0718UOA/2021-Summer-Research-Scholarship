@@ -1,0 +1,600 @@
+HHID,HHSTRUCTURE,DWELLTYPE,OWNDWELL,HHINC_grp,HHSIZE,YEARSLIVED,TOTALBIKESUSED,TOTALVEHS,ADULTS,AGE5_18,TERTIARYEDU,SECONDARYEDU,PRIMARYEDU,FULLTIME,PARTTIME,CASUAL,TOTWORK,TOTTRIPS
+AAAA085419,Other HH Structures,Separate House,Being Purchased,1650 - 2499,3,15,0,3,3,0,0,0,0,2,1,0,3,6
+AAAA194610,Sole Person,Separate House,Owned,<650,1,28,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA050316,Couple with Kids,Terrace/Townhouse,Owned,2500+,3,3,0,3,3,0,0,0,0,2,1,0,3,6
+AAAA163603,Sole Person,Separate House,Owned,1100 - 1649,1,20,1,1,1,0,0,0,0,1,0,0,0,0
+AAAA092803,One-Parent,Flat or Apartment,Rented,650 - 1099,2,7,0,0,1,1,0,0,0,0,0,2,2,4
+AAAA103304,Couple no Kids,Separate House,Owned,1650 - 2499,2,2,0,3,2,0,0,0,0,2,0,0,0,3
+AAAA073509,Sole Person,Separate House,Occupied Rent-Free,<650,1,44,0,1,1,0,0,0,0,0,0,1,0,4
+AAAA082620,Sole Person,Terrace/Townhouse,Being Purchased,1100 - 1649,1,1,0,1,1,0,0,0,0,1,0,0,0,0
+AAAA101804,Sole Person,Terrace/Townhouse,Rented,2500+,1,0,0,1,1,0,0,0,0,1,0,0,0,2
+AAAA045241,Sole Person,Separate House,Owned,1100 - 1649,1,12,0,2,1,0,0,0,0,1,0,0,0,2
+AAAA050023,Couple no Kids,Separate House,Owned,<650,2,4,0,3,2,0,0,0,0,0,0,0,0,12
+AAAA070212,Sole Person,Separate House,Owned,<650,1,50,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA020008,Couple with Kids,Separate House,Being Purchased,1650 - 2499,4,12,4,2,2,2,0,0,2,1,1,0,0,20
+AAAA032331,Couple no Kids,Separate House,Owned,650 - 1099,2,40,0,2,2,0,0,0,0,0,0,0,0,5
+AAAA043015,One-Parent,Separate House,Being Purchased,1100 - 1649,3,6,2,1,1,2,0,1,1,1,0,0,1,15
+AAAA050205,Sole Person,Flat or Apartment,Owned,<650,1,20,0,1,1,0,0,0,0,0,0,0,0,4
+AAAA123101,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,2,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA060020,Couple no Kids,Separate House,Owned,1100 - 1649,2,34,0,3,2,0,0,0,0,0,0,0,0,24
+AAAA120523,Sole Person,Flat or Apartment,Owned,<650,1,19,0,1,1,0,0,0,0,0,0,0,0,3
+AAAA070115,Couple with Kids,Separate House,Being Purchased,1100 - 1649,3,18,0,1,2,1,0,1,0,1,0,1,0,10
+AAAA144328,Other HH Structures,Separate House,Owned,2500+,2,4,0,2,2,0,0,0,0,2,0,0,0,0
+AAAA062123,Couple with Kids,Separate House,Being Purchased,1650 - 2499,5,9,3,3,2,2,0,0,2,1,1,0,6,30
+AAAA053232,Couple with Kids,Separate House,Owned,1650 - 2499,4,24,0,3,4,0,0,0,0,2,1,1,0,2
+AAAA054930,Couple with Kids,Separate House,Being Purchased,2500+,3,15,0,3,3,0,1,0,0,2,0,0,2,10
+AAAA071521,Couple with Kids,Separate House,Owned,2500+,4,25,1,2,3,1,0,1,0,2,0,1,0,3
+AAAA164724,Sole Person,Separate House,Being Purchased,650 - 1099,1,24,0,0,1,0,0,0,0,1,0,0,0,0
+AAAA133929,Couple with Kids,Separate House,Rented,1650 - 2499,4,14,0,3,3,1,0,1,0,2,1,0,3,5
+AAAA131412,One-Parent,Separate House,Rented,<650,2,17,0,1,1,1,0,1,0,0,1,0,1,5
+AAAA195034,Couple no Kids,Separate House,Owned,650 - 1099,2,19,0,1,2,0,0,0,0,0,0,0,0,4
+AAAA010904,Couple with Kids,Separate House,Rented,2500+,4,5,4,1,2,2,0,0,2,2,0,0,2,9
+AAAA062334,Sole Person,Separate House,Owned,<650,1,32,0,0,1,0,0,0,0,0,0,0,0,0
+AAAA143316,Couple with Kids,Separate House,Rented,650 - 1099,3,2,0,2,2,0,0,0,0,1,0,0,0,12
+AAAA044619,Couple no Kids,Separate House,Owned,1650 - 2499,2,1,1,2,2,0,1,0,0,1,0,0,5,13
+AAAA115225,Sole Person,Separate House,Rented,<650,1,12,1,1,1,0,0,0,0,0,0,0,0,2
+AAAA021942,Couple no Kids,Terrace/Townhouse,Owned,1100 - 1649,2,8,1,1,2,0,0,0,0,0,0,0,0,1
+AAAA103620,Couple with Kids,Separate House,Rented,1100 - 1649,5,7,5,2,2,2,0,0,2,1,1,0,1,10
+AAAA023404,Sole Person,Other,Owned,<650,1,3,0,0,1,0,0,0,0,0,0,0,0,2
+AAAA165524,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,4,2,1,2,0,0,0,0,2,0,0,1,2
+AAAA081506,Couple with Kids,Separate House,Being Purchased,1650 - 2499,4,10,1,3,2,2,0,1,0,1,1,1,2,36
+AAAA130405,Couple no Kids,Separate House,Owned,<650,2,3,0,2,2,0,0,0,0,0,0,1,1,4
+AAAA121811,Couple no Kids,Separate House,Owned,650 - 1099,2,54,0,1,2,0,0,0,0,0,0,0,0,5
+AAAA082815,Couple with Kids,Separate House,Being Purchased,1100 - 1649,3,20,2,3,3,0,1,0,0,1,1,0,1,3
+AAAA124511,Couple with Kids,Separate House,Owned,1100 - 1649,4,8,2,2,2,2,0,1,1,1,0,0,0,8
+AAAA080408,Sole Person,Separate House,Owned,<650,1,32,0,1,1,0,0,0,0,0,0,0,0,4
+AAAA194803,Couple no Kids,Separate House,Owned,2500+,2,24,4,2,2,0,0,0,0,0,2,0,0,4
+AAAA050838,One-Parent,Separate House,Rented,<650,3,3,0,2,3,0,2,0,0,0,1,0,0,0
+AAAA020639,Couple with Kids,Separate House,Owned,1650 - 2499,3,10,0,2,2,1,0,1,0,1,1,0,1,6
+AAAA121103,Couple with Kids,Separate House,Owned,1100 - 1649,5,3,6,2,2,2,0,0,2,1,0,0,1,25
+AAAA124022,Sole Person,Separate House,Being Purchased,1100 - 1649,1,3,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA053226,Couple with Kids,Separate House,Rented,1650 - 2499,4,2,1,1,2,2,0,0,2,1,1,0,0,0
+AAAA093619,Sole Person,Separate House,Owned,<650,1,15,0,1,1,0,0,0,0,0,0,0,0,3
+AAAA021926,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,25,2,3,2,0,0,0,0,2,0,0,0,10
+AAAA014830,Sole Person,Flat or Apartment,Rented,<650,1,1,0,2,1,0,1,0,0,0,0,0,0,2
+AAAA205315,Sole Person,Flat or Apartment,Rented,1100 - 1649,1,0,0,0,1,0,0,0,0,1,0,0,1,2
+AAAA164734,Couple no Kids,Separate House,Owned,1650 - 2499,2,15,2,2,2,0,0,0,0,1,1,0,0,6
+AAAA072604,One-Parent,Separate House,Owned,650 - 1099,2,30,0,2,2,0,1,0,0,0,0,0,0,0
+AAAA164330,Couple no Kids,Separate House,Rented,2500+,2,1,1,2,2,0,0,0,0,2,0,0,1,2
+AAAA073004,One-Parent,Separate House,Owned,1100 - 1649,3,11,2,1,1,2,0,0,2,1,0,0,1,8
+AAAA195224,Other HH Structures,Separate House,Owned,<650,3,2,0,2,1,2,0,2,0,1,0,0,2,17
+AAAA072712,One-Parent,Separate House,Owned,650 - 1099,2,37,0,1,2,0,0,0,0,1,0,0,1,4
+AAAA184304,Couple with Kids,Separate House,Owned,<650,3,27,0,2,1,0,0,0,0,0,0,1,0,2
+AAAA131631,Couple with Kids,Separate House,Being Purchased,1100 - 1649,5,0,4,2,2,3,0,0,3,1,0,1,1,19
+AAAA121317,Couple no Kids,Separate House,Owned,<650,2,10,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA054505,Couple no Kids,Separate House,Owned,650 - 1099,2,19,0,1,2,0,0,0,0,0,0,0,0,6
+AAAA070935,Sole Person,Flat or Apartment,Rented,1100 - 1649,1,0,1,1,1,0,0,0,0,1,0,0,0,0
+AAAA094523,Couple with Kids,Flat or Apartment,Owned,2500+,3,1,0,3,3,0,1,0,0,0,0,1,0,9
+AAAA081627,Sole Person,Separate House,Being Purchased,1100 - 1649,1,0,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA044517,Couple with Kids,Separate House,Owned,2500+,4,18,0,4,4,0,0,0,0,4,0,0,2,4
+AAAA101521,Sole Person,Separate House,Owned,650 - 1099,1,8,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA044803,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,3,0,2,2,0,0,0,0,2,0,0,1,4
+AAAA091629,Couple no Kids,Separate House,Owned,650 - 1099,2,32,1,2,2,0,0,0,0,0,0,0,0,0
+AAAA030526,Couple with Kids,Terrace/Townhouse,Rented,650 - 1099,5,0,0,2,2,1,0,0,1,1,0,0,1,8
+AAAA062932,Couple no Kids,Separate House,Owned,1100 - 1649,2,19,0,2,2,0,0,0,0,0,0,0,0,22
+AAAA020530,Couple no Kids,Separate House,Owned,650 - 1099,2,16,0,2,2,0,0,0,0,0,0,0,0,5
+AAAA164941,Couple with Kids,Separate House,Rented,1650 - 2499,3,0,1,2,2,1,0,0,1,1,0,1,1,10
+AAAA075401,Couple with Kids,Separate House,Rented,2500+,7,2,1,2,6,1,0,0,1,3,0,0,2,8
+AAAA061915,Other HH Structures,Flat or Apartment,Owned,650 - 1099,7,6,0,4,5,0,0,0,0,3,1,0,1,2
+AAAA012902,Sole Person,Separate House,Owned,1100 - 1649,1,2,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA141003,Sole Person,Separate House,Being Purchased,650 - 1099,1,4,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA125131,Couple no Kids,Separate House,Owned,650 - 1099,2,7,0,2,2,0,0,0,0,0,0,0,0,8
+AAAA074927,Couple with Kids,Separate House,Owned,1100 - 1649,3,38,0,2,3,0,0,0,0,1,0,0,0,10
+AAAA122518,One-Parent,Separate House,Rented,<650,2,5,1,1,1,1,0,1,0,0,0,1,1,12
+AAAA155003,Couple with Kids,Separate House,Being Purchased,2500+,3,5,0,2,2,1,0,0,1,2,0,0,2,12
+AAAA030905,Sole Person,Separate House,Owned,2500+,1,57,0,0,1,0,0,0,0,0,0,0,0,2
+AAAA080234,Couple with Kids,Separate House,Being Purchased,1650 - 2499,5,0,2,2,2,2,0,1,1,1,0,0,0,1
+AAAA145411,Couple with Kids,Separate House,Being Purchased,1650 - 2499,5,8,0,3,2,0,0,0,0,2,0,0,1,5
+AAAA120029,Couple with Kids,Separate House,Owned,<650,3,1,0,2,2,0,1,0,0,0,0,0,0,0
+AAAA121825,Couple no Kids,Separate House,Owned,1100 - 1649,2,31,0,2,2,0,0,0,0,1,1,0,1,2
+AAAA142932,Sole Person,Separate House,Owned,<650,1,14,0,3,1,0,0,0,0,0,0,0,0,0
+AAAA043330,Couple no Kids,Separate House,Owned,650 - 1099,2,52,0,0,2,0,0,0,0,0,0,0,0,8
+AAAA070326,Couple with Kids,Separate House,Owned,2500+,4,20,1,3,2,2,0,2,0,2,0,0,1,20
+AAAA142716,One-Parent,Separate House,Owned,650 - 1099,2,11,0,0,2,0,0,0,0,1,0,0,0,6
+AAAA112529,Couple with Kids,Separate House,Owned,1650 - 2499,3,12,1,2,2,0,0,0,0,1,1,0,2,10
+AAAA105223,Couple with Kids,Separate House,Being Purchased,1650 - 2499,4,7,4,2,2,2,0,0,2,1,1,0,1,14
+AAAA133036,Couple no Kids,Separate House,Owned,650 - 1099,2,0,0,1,2,0,0,0,0,0,0,0,0,4
+AAAA141110,Couple no Kids,Separate House,Owned,650 - 1099,2,44,0,1,2,0,0,0,0,0,0,0,0,10
+AAAA074941,Couple with Kids,Separate House,Being Purchased,2500+,4,5,1,2,2,2,0,0,2,1,0,0,0,12
+AAAA033119,Couple no Kids,Separate House,Rented,650 - 1099,2,0,0,1,2,0,1,0,0,1,0,0,2,4
+AAAA061409,One-Parent,Separate House,Rented,2500+,4,5,0,2,3,1,1,0,0,1,1,2,1,2
+AAAA042417,Couple with Kids,Separate House,Owned,2500+,3,20,2,3,3,0,0,0,0,3,0,0,1,2
+AAAA031602,Couple no Kids,Flat or Apartment,Owned,1100 - 1649,2,12,0,1,2,0,0,0,0,1,0,0,0,0
+AAAA133626,One-Parent,Separate House,Rented,<650,3,0,0,2,2,1,1,0,1,0,1,0,1,13
+AAAA194725,Couple with Kids,Separate House,Owned,2500+,6,12,0,3,3,2,0,2,0,1,2,0,1,12
+AAAA032011,Sole Person,Separate House,Owned,2500+,1,19,1,0,1,0,0,0,0,1,0,0,1,4
+AAAA050813,Sole Person,Separate House,Rented,<650,1,7,0,0,1,0,0,0,0,0,0,0,0,6
+AAAA131634,Couple with Kids,Separate House,Being Purchased,1650 - 2499,6,17,1,6,3,3,0,1,0,2,3,0,0,28
+AAAA011023,Couple with Kids,Terrace/Townhouse,Owned,2500+,4,2,1,1,2,0,0,0,0,1,0,0,1,2
+AAAA085325,Couple no Kids,Separate House,Being Purchased,<650,2,29,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA033818,Couple with Kids,Separate House,Owned,2500+,3,1,0,2,2,0,0,0,0,1,0,0,1,2
+AAAA020629,Couple no Kids,Separate House,Owned,1100 - 1649,2,3,0,2,2,0,0,0,0,2,0,0,1,2
+AAAA205016,Couple with Kids,Separate House,Owned,<650,3,0,1,1,3,0,0,0,0,2,0,0,2,4
+AAAA065329,Sole Person,Separate House,Owned,<650,1,28,0,1,1,0,0,0,0,0,0,0,0,4
+AAAA031919,Sole Person,Separate House,Being Purchased,1650 - 2499,1,2,3,0,1,0,0,0,0,1,0,0,1,2
+AAAA031620,Couple no Kids,Separate House,Being Purchased,2500+,2,1,0,2,2,0,0,0,0,2,0,0,0,15
+AAAA042130,Couple no Kids,Separate House,Owned,1100 - 1649,2,37,1,4,2,0,0,0,0,0,0,0,0,10
+AAAA122138,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,2,2,2,2,0,0,0,0,1,0,1,2,7
+AAAA093916,Sole Person,Separate House,Owned,<650,1,20,0,1,1,0,0,0,0,0,0,0,0,6
+AAAA141103,Couple no Kids,Terrace/Townhouse,Rented,650 - 1099,2,4,0,1,2,0,0,0,0,0,0,0,0,4
+AAAA145402,Sole Person,Separate House,Being Purchased,650 - 1099,1,1,0,1,1,0,1,0,0,1,0,0,2,5
+AAAA123922,Couple with Kids,Separate House,Rented,2500+,5,2,3,3,2,2,1,0,2,1,0,0,0,9
+AAAA041537,Couple with Kids,Separate House,Owned,1100 - 1649,4,7,0,2,2,1,0,0,1,1,0,0,1,5
+AAAA010405,Sole Person,Separate House,Owned,2500+,1,7,1,1,1,0,0,0,0,1,0,0,1,2
+AAAA105026,Couple with Kids,Separate House,Owned,1100 - 1649,3,21,0,2,3,0,0,0,0,0,0,0,0,2
+AAAA122805,Couple no Kids,Separate House,Owned,2500+,2,3,0,1,2,0,1,0,0,1,0,0,2,6
+AAAA110506,Couple with Kids,Separate House,Being Purchased,1100 - 1649,5,0,3,1,2,2,0,2,0,1,0,0,1,25
+AAAA104229,Couple no Kids,Separate House,Owned,650 - 1099,2,25,0,2,2,0,0,0,0,0,0,0,0,0
+AAAA074814,Sole Person,Separate House,Owned,<650,1,17,0,1,1,0,0,0,0,0,1,0,0,7
+AAAA143835,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,10,1,3,2,0,0,0,0,2,0,0,0,3
+AAAA131530,Couple with Kids,Separate House,Being Purchased,2500+,4,7,2,2,2,0,1,0,0,1,1,0,2,6
+AAAA023014,Couple with Kids,Separate House,Owned,650 - 1099,4,2,4,2,2,0,0,0,0,0,0,0,0,0
+AAAA101326,Couple with Kids,Separate House,Being Purchased,2500+,4,14,2,2,2,2,0,2,0,1,0,0,1,12
+AAAA111832,Couple no Kids,Separate House,Owned,1100 - 1649,2,28,1,2,2,0,0,0,0,0,1,1,3,14
+AAAA072820,Couple with Kids,Separate House,Being Purchased,2500+,3,4,0,2,2,0,0,0,0,1,0,1,0,12
+AAAA105416,One-Parent,Separate House,Rented,1100 - 1649,3,1,0,0,1,2,0,2,0,1,0,0,0,6
+AAAA025209,Couple no Kids,Separate House,Owned,2500+,2,2,1,2,2,0,0,0,0,2,0,0,1,2
+AAAA110108,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,18,1,3,3,0,1,0,0,3,0,0,2,4
+AAAA062329,Couple with Kids,Separate House,Owned,<650,4,13,0,2,4,0,1,0,0,0,0,1,0,2
+AAAA020912,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,1,0,2,2,0,0,0,0,2,0,0,2,13
+AAAA163634,Sole Person,Separate House,Owned,<650,1,42,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA062041,Couple no Kids,Separate House,Owned,<650,2,20,0,1,2,0,0,0,0,0,0,0,0,10
+AAAA054135,Other HH Structures,Flat or Apartment,Rented,<650,2,3,3,0,2,0,2,0,0,0,0,0,0,2
+AAAA122024,Couple no Kids,Separate House,Being Purchased,650 - 1099,2,1,0,2,2,0,0,0,0,1,1,0,2,6
+AAAA151435,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,2,0,3,2,0,0,0,0,1,1,0,0,12
+AAAA072805,Couple no Kids,Separate House,Owned,650 - 1099,2,51,0,2,2,0,0,0,0,0,0,0,0,8
+AAAA082903,Couple with Kids,Separate House,Owned,650 - 1099,3,7,0,2,2,0,0,0,0,1,0,0,1,11
+AAAA070434,Couple no Kids,Separate House,Owned,650 - 1099,2,33,0,1,2,0,0,0,0,0,0,0,0,8
+AAAA082130,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,6,1,2,2,0,1,0,0,2,0,0,2,10
+AAAA021007,Couple no Kids,Separate House,Owned,650 - 1099,2,35,0,2,2,0,0,0,0,0,0,0,0,2
+AAAA164036,Sole Person,Separate House,Owned,650 - 1099,1,4,0,1,1,0,0,0,0,0,0,1,0,2
+AAAA114719,Couple no Kids,Separate House,Owned,1100 - 1649,2,33,0,2,2,0,0,0,0,1,0,0,8,11
+AAAA113406,Couple no Kids,Separate House,Being Purchased,650 - 1099,2,2,0,2,2,0,0,0,0,2,0,0,0,6
+AAAA083022,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,26,0,3,3,0,0,0,0,1,1,0,1,2
+AAAA125505,Couple with Kids,Separate House,Being Purchased,1100 - 1649,3,0,2,2,2,0,1,0,0,1,0,0,3,11
+AAAA184132,Couple with Kids,Separate House,Owned,1650 - 2499,4,11,0,2,3,1,1,0,1,2,0,0,1,8
+AAAA150119,Couple no Kids,Separate House,Owned,650 - 1099,2,5,1,1,2,0,0,0,0,0,1,0,1,2
+AAAA051808,Couple no Kids,Separate House,Being Purchased,2500+,2,4,0,2,2,0,0,0,0,2,0,0,1,7
+AAAA115118,Couple with Kids,Separate House,Being Purchased,2500+,3,4,0,3,2,1,1,0,1,1,0,0,1,9
+AAAA042820,Sole Person,Flat or Apartment,Owned,<650,1,4,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA054011,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,3,3,2,2,0,0,0,0,1,0,0,1,4
+AAAA131602,Couple no Kids,Separate House,Owned,650 - 1099,2,12,0,1,2,0,0,0,0,0,0,0,0,5
+AAAA120229,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,5,0,2,2,1,0,0,1,2,0,0,2,6
+AAAA081333,Sole Person,Separate House,Owned,<650,1,17,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA052410,Sole Person,Separate House,Owned,<650,1,60,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA080732,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,0,0,2,2,0,0,0,0,1,0,1,3,8
+AAAA045417,One-Parent,Separate House,Being Purchased,2500+,2,1,1,1,1,0,0,0,0,1,0,0,1,3
+AAAA134532,Couple with Kids,Separate House,Rented,1100 - 1649,4,4,1,2,2,2,0,1,1,1,1,0,2,4
+AAAA090231,Other HH Structures,Flat or Apartment,Rented,<650,3,4,0,0,3,0,0,1,0,0,0,0,0,2
+AAAA053537,Sole Person,Other,Owned,650 - 1099,1,14,0,0,1,0,0,0,0,0,0,0,0,0
+AAAA031226,Sole Person,Separate House,Owned,<650,1,30,0,0,1,0,0,0,0,0,0,0,0,0
+AAAA204114,Couple with Kids,Separate House,Being Purchased,2500+,4,4,1,2,2,1,0,0,1,1,1,0,0,12
+AAAA015135,Sole Person,Separate House,Rented,650 - 1099,1,4,0,1,1,0,0,0,0,1,0,0,0,0
+AAAA083129,Couple no Kids,Separate House,Owned,650 - 1099,2,40,3,2,2,0,0,0,0,0,1,0,0,0
+AAAA104711,One-Parent,Separate House,Rented,650 - 1099,3,0,0,3,2,1,0,1,0,2,0,0,2,7
+AAAA094538,Couple no Kids,Flat or Apartment,Rented,2500+,2,1,1,1,1,0,0,0,0,1,0,0,0,0
+AAAA185515,Couple with Kids,Separate House,Rented,1650 - 2499,5,0,2,2,2,1,0,0,1,1,0,0,0,10
+AAAA141508,Couple with Kids,Separate House,Being Purchased,650 - 1099,5,21,4,2,2,3,0,2,1,1,0,0,1,12
+AAAA024041,Couple with Kids,Separate House,Owned,1650 - 2499,3,23,2,4,3,0,1,0,0,2,1,0,1,4
+AAAA122334,Couple with Kids,Separate House,Owned,2500+,3,5,1,2,2,0,1,0,0,1,0,0,0,8
+AAAA081233,Couple with Kids,Separate House,Rented,1650 - 2499,6,4,0,3,2,4,0,1,2,2,1,0,1,16
+AAAA063117,Couple no Kids,Separate House,Rented,<650,2,13,0,1,2,0,0,0,0,0,0,0,0,2
+AAAA132638,Couple no Kids,Separate House,Owned,650 - 1099,2,9,0,2,2,0,0,0,0,0,0,0,0,7
+AAAA155108,Couple with Kids,Separate House,Owned,2500+,5,15,1,1,2,3,0,2,1,1,1,0,3,23
+AAAA041519,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,2,4,3,2,0,0,0,0,2,0,0,5,7
+AAAA092023,Sole Person,Separate House,Owned,<650,1,25,0,0,1,0,0,0,0,0,0,0,0,4
+AAAA104117,Sole Person,Other,Rented,1100 - 1649,1,23,0,2,1,0,0,0,0,1,0,0,1,2
+AAAA074222,Sole Person,Flat or Apartment,Rented,1100 - 1649,1,4,0,1,1,0,0,0,0,1,0,0,0,0
+AAAA145439,Sole Person,Separate House,Owned,2500+,1,8,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA121142,Couple with Kids,Terrace/Townhouse,Owned,2500+,5,25,0,2,4,1,0,1,0,3,0,0,0,12
+AAAA090832,Couple no Kids,Separate House,Owned,1650 - 2499,2,31,0,1,2,0,0,0,0,0,0,0,1,2
+AAAA021523,Sole Person,Separate House,Rented,650 - 1099,1,0,0,1,1,0,0,0,0,0,0,1,1,2
+AAAA134523,Couple with Kids,Separate House,Owned,1100 - 1649,3,5,2,2,2,1,0,0,1,1,1,0,1,8
+AAAA060233,One-Parent,Separate House,Owned,1650 - 2499,3,21,0,1,3,0,0,0,0,2,0,0,2,6
+AAAA052011,Couple with Kids,Separate House,Rented,1650 - 2499,3,0,2,1,2,1,0,1,0,2,0,0,1,5
+AAAA122832,One-Parent,Separate House,Occupied Rent-Free,1100 - 1649,3,9,1,1,3,0,2,0,0,1,0,0,6,20
+AAAA103314,Sole Person,Separate House,Occupied Rent-Free,1100 - 1649,1,13,0,0,1,0,0,0,0,0,0,0,0,5
+AAAA025310,Couple with Kids,Separate House,Being Purchased,1100 - 1649,5,2,0,1,2,3,0,0,3,1,1,0,5,27
+AAAA043512,Couple with Kids,Separate House,Being Purchased,2500+,4,4,0,2,4,0,1,0,0,0,1,0,0,24
+AAAA025322,One-Parent,Flat or Apartment,Rented,<650,2,11,0,0,0,1,0,1,0,0,0,0,0,2
+AAAA042528,One-Parent,Separate House,Being Purchased,1650 - 2499,3,3,0,2,3,0,1,0,0,1,0,0,0,0
+AAAA092624,Sole Person,Flat or Apartment,Rented,<650,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA064608,Couple no Kids,Separate House,Owned,1100 - 1649,2,42,0,1,2,0,0,0,0,0,1,0,0,14
+AAAA021911,Couple with Kids,Separate House,Being Purchased,1100 - 1649,3,5,0,2,2,0,0,0,0,1,0,0,0,3
+AAAA043535,Sole Person,Separate House,Being Purchased,650 - 1099,1,4,2,1,1,0,0,0,0,1,0,0,0,1
+AAAA104424,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,1,3,2,2,1,0,0,1,1,1,0,0,15
+AAAA022725,Sole Person,Separate House,Being Purchased,1100 - 1649,1,0,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA205229,Couple no Kids,Separate House,Owned,1100 - 1649,2,11,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA081533,Couple no Kids,Separate House,Owned,1100 - 1649,2,9,0,2,2,0,0,0,0,1,0,0,1,6
+AAAA031812,Couple no Kids,Separate House,Owned,<650,2,16,0,1,2,0,0,0,0,0,1,0,0,0
+AAAA123219,Sole Person,Separate House,Owned,<650,1,40,0,1,1,0,0,0,0,0,0,0,0,5
+AAAA082417,Couple no Kids,Separate House,Owned,2500+,2,1,0,2,2,0,0,0,0,2,0,0,0,4
+AAAA055412,Couple no Kids,Separate House,Owned,2500+,2,2,0,2,2,0,0,0,0,2,0,0,5,10
+AAAA103626,Couple with Kids,Terrace/Townhouse,Owned,1100 - 1649,3,2,0,2,2,1,0,0,0,1,1,0,1,12
+AAAA010624,Sole Person,Flat or Apartment,Rented,<650,1,5,0,0,1,0,0,0,0,0,0,0,0,2
+AAAA124702,Sole Person,Separate House,Owned,1100 - 1649,1,16,0,1,1,0,0,0,0,0,1,0,0,5
+AAAA143101,Other HH Structures,Flat or Apartment,Rented,650 - 1099,2,4,0,1,2,0,1,0,0,1,0,1,0,3
+AAAA195410,Couple with Kids,Separate House,Being Purchased,650 - 1099,4,12,0,2,2,2,0,1,1,0,1,0,0,11
+AAAA043422,Couple no Kids,Separate House,Owned,650 - 1099,2,43,0,2,2,0,0,0,0,0,0,0,0,5
+AAAA052003,Sole Person,Terrace/Townhouse,Rented,650 - 1099,1,1,0,1,1,0,0,0,0,0,1,0,1,2
+AAAA082518,Couple with Kids,Separate House,Being Purchased,650 - 1099,3,2,0,2,2,0,0,0,0,1,0,0,0,2
+AAAA055227,Couple no Kids,Separate House,Owned,650 - 1099,2,1,0,3,2,0,0,0,0,1,0,0,0,0
+AAAA134519,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,2,0,3,2,0,0,0,0,2,0,0,1,13
+AAAA164615,Sole Person,Separate House,Owned,<650,1,6,0,1,1,0,0,0,0,0,0,0,0,1
+AAAA081921,Couple no Kids,Separate House,Being Purchased,<650,2,27,0,2,2,0,0,0,0,1,0,0,0,0
+AAAA010019,Couple no Kids,Separate House,Owned,1100 - 1649,2,2,0,2,2,0,0,0,0,1,0,1,1,4
+AAAA150536,Couple no Kids,Separate House,Being Purchased,650 - 1099,2,12,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA063917,Sole Person,Flat or Apartment,Occupied Rent-Free,<650,1,19,0,1,1,0,0,0,0,0,0,0,0,3
+AAAA184537,Other HH Structures,Separate House,Being Purchased,1100 - 1649,3,40,1,1,3,0,0,0,0,1,0,0,0,4
+AAAA184233,Couple no Kids,Separate House,Owned,1650 - 2499,2,33,0,2,2,0,0,0,0,0,0,0,0,0
+AAAA010920,Couple with Kids,Terrace/Townhouse,Owned,2500+,3,7,3,1,2,1,0,1,0,2,0,0,1,16
+AAAA145113,Couple with Kids,Separate House,Owned,2500+,5,12,4,2,2,3,0,3,0,1,1,0,0,29
+AAAA032203,Couple with Kids,Separate House,Being Purchased,2500+,4,23,0,2,2,2,0,2,0,1,1,0,1,6
+AAAA054134,Couple no Kids,Flat or Apartment,Owned,2500+,2,8,0,2,2,0,0,0,0,2,0,0,0,0
+AAAA132714,Couple no Kids,Separate House,Owned,650 - 1099,2,18,0,1,2,0,0,0,0,0,0,0,0,2
+AAAA185137,Couple no Kids,Terrace/Townhouse,Owned,2500+,2,3,0,1,2,0,0,0,0,2,0,0,1,3
+AAAA045436,Couple no Kids,Separate House,Owned,650 - 1099,2,35,0,1,2,0,0,0,0,0,1,0,0,4
+AAAA074833,Couple with Kids,Separate House,Owned,2500+,3,1,1,2,3,0,0,0,0,1,1,0,0,14
+AAAA123702,Sole Person,Separate House,Rented,650 - 1099,1,0,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA134632,Couple no Kids,Separate House,Owned,2500+,2,1,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA061340,One-Parent,Separate House,Rented,<650,2,0,2,1,1,1,0,1,0,0,1,0,0,7
+AAAA081911,Couple with Kids,Separate House,Rented,1650 - 2499,4,2,1,2,2,2,0,2,0,1,1,0,3,10
+AAAA133413,Couple with Kids,Separate House,Being Purchased,1650 - 2499,4,8,2,3,2,1,0,1,0,1,0,1,1,11
+AAAA043123,Couple no Kids,Separate House,Owned,1650 - 2499,2,42,0,2,2,0,0,0,0,0,1,0,0,2
+AAAA143030,Sole Person,Flat or Apartment,Owned,650 - 1099,1,14,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA022937,Couple with Kids,Separate House,Owned,2500+,3,2,0,3,3,0,1,0,0,1,0,0,1,10
+AAAA073534,Couple no Kids,Flat or Apartment,Rented,1650 - 2499,2,0,0,1,2,0,0,0,0,2,0,0,2,4
+AAAA164335,Couple with Kids,Separate House,Owned,1100 - 1649,3,24,0,3,3,0,1,0,0,1,1,0,0,8
+AAAA063525,Sole Person,Flat or Apartment,Rented,1100 - 1649,1,5,0,1,1,0,0,0,0,1,0,0,1,4
+AAAA045008,Other HH Structures,Separate House,Rented,650 - 1099,2,2,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA035015,Sole Person,Separate House,Owned,650 - 1099,1,30,1,2,1,0,0,0,0,0,0,0,0,0
+AAAA150130,One-Parent,Flat or Apartment,Rented,<650,3,0,0,0,1,0,0,0,0,0,0,0,0,4
+AAAA115411,Couple with Kids,Separate House,Being Purchased,650 - 1099,4,5,1,2,2,1,0,0,1,1,0,0,0,10
+AAAA033835,Sole Person,Flat or Apartment,Owned,1650 - 2499,1,25,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA081423,Couple with Kids,Separate House,Owned,2500+,4,17,1,5,3,1,0,0,0,3,1,0,4,8
+AAAA122437,Couple with Kids,Separate House,Being Purchased,2500+,4,3,4,2,2,2,0,0,2,2,0,0,2,30
+AAAA124829,Couple no Kids,Separate House,Owned,650 - 1099,2,31,1,1,2,0,0,0,0,0,0,0,0,5
+AAAA121522,Other HH Structures,Separate House,Rented,650 - 1099,3,0,0,2,2,1,2,1,0,0,0,0,0,7
+AAAA131916,Couple no Kids,Separate House,Owned,2500+,2,6,0,1,2,0,0,0,0,2,0,0,0,0
+AAAA074433,Couple with Kids,Separate House,Owned,<650,3,10,0,1,3,0,1,0,0,1,0,0,0,8
+AAAA140003,Couple no Kids,Separate House,Owned,1100 - 1649,2,40,0,2,2,0,0,0,0,0,1,0,0,3
+AAAA010003,Couple with Kids,Separate House,Owned,1650 - 2499,4,9,0,4,4,0,2,0,0,3,0,0,0,0
+AAAA031813,Other HH Structures,Separate House,Rented,2500+,3,1,0,3,2,0,0,0,0,2,0,0,0,8
+AAAA112638,Couple with Kids,Separate House,Being Purchased,2500+,3,12,0,3,2,0,0,0,0,2,0,0,0,0
+AAAA015236,Couple no Kids,Terrace/Townhouse,Owned,2500+,2,4,0,3,2,0,0,0,0,1,1,0,2,3
+AAAA095229,One-Parent,Separate House,Being Purchased,1650 - 2499,2,9,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA101926,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,5,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA081505,Couple with Kids,Separate House,Being Purchased,2500+,5,3,0,5,4,1,3,0,0,1,1,0,4,27
+AAAA095327,Sole Person,Flat or Apartment,Rented,<650,1,20,0,0,1,0,0,0,0,0,0,0,0,0
+AAAA010821,Couple with Kids,Separate House,Being Purchased,2500+,5,16,2,4,4,1,0,0,1,2,1,0,0,0
+AAAA064806,Couple no Kids,Separate House,Owned,2500+,2,12,0,2,2,0,0,0,0,0,0,0,0,10
+AAAA141202,Sole Person,Separate House,Owned,<650,1,52,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA045102,Other HH Structures,Separate House,Owned,650 - 1099,2,24,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA040502,Couple no Kids,Separate House,Owned,2500+,2,16,0,1,2,0,0,0,0,2,0,0,0,0
+AAAA064423,Couple with Kids,Separate House,Being Purchased,2500+,6,3,0,4,4,2,3,2,0,2,0,0,8,25
+AAAA055036,Couple with Kids,Terrace/Townhouse,Owned,2500+,3,7,0,1,2,0,0,0,0,1,0,0,1,4
+AAAA142605,Couple with Kids,Separate House,Owned,1650 - 2499,5,10,4,3,3,2,0,1,1,2,1,0,0,6
+AAAA031017,Couple no Kids,Separate House,Owned,2500+,2,7,2,1,2,0,0,0,0,2,0,0,5,12
+AAAA062214,Couple no Kids,Separate House,Being Purchased,650 - 1099,2,18,0,2,2,0,0,0,0,0,0,2,0,6
+AAAA140125,Sole Person,Separate House,Owned,650 - 1099,1,6,0,1,1,0,0,0,0,0,1,0,1,2
+AAAA141237,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,9,1,3,2,2,1,1,1,1,0,0,2,19
+AAAA045534,One-Parent,Terrace/Townhouse,Owned,650 - 1099,4,2,0,1,1,3,0,2,1,1,0,0,1,5
+AAAA113311,Sole Person,Separate House,Owned,<650,1,19,0,1,1,0,0,0,0,0,1,0,0,0
+AAAA080024,Sole Person,Separate House,Being Purchased,<650,1,6,0,0,1,0,0,0,0,0,0,0,0,2
+AAAA054404,Couple no Kids,Other,Owned,1100 - 1649,2,6,0,2,2,0,0,0,0,0,1,0,0,8
+AAAA053024,Couple no Kids,Other,Rented,1100 - 1649,2,6,0,2,2,0,0,0,0,2,0,0,4,5
+AAAA145004,Couple no Kids,Separate House,Being Purchased,<650,2,0,0,1,2,0,0,0,0,0,0,1,0,0
+AAAA061710,Couple no Kids,Separate House,Being Purchased,2500+,2,8,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA195340,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,15,1,3,2,2,0,1,1,1,1,0,4,19
+AAAA164729,Other HH Structures,Separate House,Owned,650 - 1099,2,6,0,1,2,0,0,0,0,0,0,1,0,5
+AAAA175203,Couple with Kids,Separate House,Being Purchased,650 - 1099,4,2,2,2,2,0,0,0,0,1,0,0,0,2
+AAAA040622,Sole Person,Flat or Apartment,Rented,650 - 1099,1,1,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA144733,One-Parent,Separate House,Owned,<650,2,50,0,2,2,0,0,0,0,0,0,0,0,0
+AAAA140602,Couple no Kids,Separate House,Rented,1100 - 1649,2,8,1,2,2,0,0,0,0,0,0,0,0,0
+AAAA164802,Couple with Kids,Separate House,Owned,1100 - 1649,3,19,0,5,3,0,0,0,0,2,1,0,0,2
+AAAA044607,Sole Person,Separate House,Owned,650 - 1099,1,15,0,1,1,0,0,0,0,1,0,0,0,3
+AAAA163435,Couple no Kids,Separate House,Rented,1650 - 2499,2,2,0,2,2,0,0,0,0,2,0,0,0,2
+AAAA043705,Couple no Kids,Separate House,Owned,<650,2,27,0,2,2,0,0,0,0,0,0,0,0,2
+AAAA074436,Couple with Kids,Separate House,Being Purchased,2500+,4,6,2,2,2,1,0,0,1,1,1,0,0,10
+AAAA153736,Sole Person,Separate House,Owned,<650,1,24,0,1,1,0,0,0,0,0,0,0,0,3
+AAAA122035,Couple no Kids,Separate House,Being Purchased,2500+,2,12,2,3,2,0,0,0,0,2,0,0,0,4
+AAAA010102,Couple no Kids,Separate House,Owned,1100 - 1649,2,33,1,2,2,0,0,0,0,0,2,0,1,14
+AAAA080925,Other HH Structures,Separate House,Owned,650 - 1099,2,35,0,1,2,0,0,0,0,0,2,0,2,12
+AAAA120537,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,10,0,2,2,0,0,0,0,2,0,0,0,0
+AAAA062619,Couple no Kids,Separate House,Owned,<650,2,43,0,2,2,0,0,0,0,0,0,0,0,6
+AAAA133329,Couple with Kids,Separate House,Owned,2500+,3,37,1,3,3,0,0,0,0,1,0,0,1,14
+AAAA040118,Couple with Kids,Separate House,Owned,<650,5,1,4,3,2,2,0,0,2,1,0,0,1,13
+AAAA175302,Couple with Kids,Separate House,Owned,2500+,3,22,0,6,3,0,0,0,0,1,1,0,2,5
+AAAA130616,Sole Person,Separate House,Rented,650 - 1099,1,16,0,0,1,0,0,0,0,0,0,1,0,6
+AAAA040020,Couple no Kids,Separate House,Owned,650 - 1099,2,9,0,1,2,0,0,0,0,0,0,0,0,3
+AAAA032401,Sole Person,Separate House,Being Purchased,1100 - 1649,1,16,0,1,1,0,1,0,0,1,0,0,1,2
+AAAA133437,Couple no Kids,Separate House,Owned,1100 - 1649,2,38,0,3,2,0,0,0,0,0,0,0,0,0
+AAAA072630,Sole Person,Other,Owned,<650,1,9,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA040532,Couple with Kids,Separate House,Owned,1650 - 2499,4,4,0,2,2,2,0,0,2,2,0,0,2,14
+AAAA110015,Couple no Kids,Separate House,Owned,<650,2,6,0,2,2,0,0,0,0,0,0,0,0,3
+AAAA130706,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,13,0,2,2,2,0,1,1,0,1,1,1,21
+AAAA084427,Couple no Kids,Separate House,Owned,650 - 1099,2,16,0,2,2,0,0,0,0,0,0,0,0,2
+AAAA084426,Other HH Structures,Separate House,Being Purchased,1100 - 1649,3,11,1,3,3,0,0,0,0,2,0,0,0,9
+AAAA011219,Sole Person,Separate House,Owned,650 - 1099,1,12,0,1,1,0,0,0,0,1,0,0,0,5
+AAAA060823,Sole Person,Flat or Apartment,Rented,<650,1,5,0,1,1,0,0,0,0,0,0,0,0,3
+AAAA204311,Sole Person,Terrace/Townhouse,Being Purchased,1100 - 1649,1,4,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA144516,Couple no Kids,Flat or Apartment,Rented,1650 - 2499,2,0,0,2,2,0,0,0,0,1,0,1,2,16
+AAAA174405,Sole Person,Separate House,Owned,1100 - 1649,1,6,0,1,1,0,0,0,0,1,0,0,0,2
+AAAA065503,Couple no Kids,Separate House,Owned,1100 - 1649,2,16,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA094623,Couple with Kids,Separate House,Rented,650 - 1099,4,2,0,0,2,0,1,0,0,0,0,1,1,2
+AAAA112737,Sole Person,Separate House,Owned,<650,1,41,0,1,1,0,0,0,0,0,0,0,0,3
+AAAA091011,Sole Person,Separate House,Rented,650 - 1099,1,13,0,1,1,0,0,0,0,1,0,0,4,5
+AAAA033318,Other HH Structures,Separate House,Owned,2500+,2,8,1,2,2,0,0,0,0,2,0,0,1,3
+AAAA042138,One-Parent,Separate House,Being Purchased,<650,2,5,0,2,2,0,0,0,0,0,1,0,1,2
+AAAA095042,Couple with Kids,Separate House,Owned,650 - 1099,4,16,1,4,4,0,2,0,0,0,0,1,1,4
+AAAA094237,Sole Person,Flat or Apartment,Owned,<650,1,3,0,1,1,0,1,0,0,0,0,0,1,5
+AAAA053609,Couple with Kids,Flat or Apartment,Rented,1100 - 1649,4,0,0,1,2,2,0,2,0,1,0,0,0,27
+AAAA055015,Sole Person,Separate House,Owned,<650,1,23,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA041212,Other HH Structures,Separate House,Owned,650 - 1099,5,32,0,1,3,1,0,0,1,0,0,1,1,8
+AAAA151832,Couple no Kids,Separate House,Owned,650 - 1099,2,30,0,2,2,0,0,0,0,0,0,0,0,4
+AAAA102711,Couple with Kids,Separate House,Owned,1100 - 1649,4,22,0,1,3,1,1,1,0,1,0,1,1,15
+AAAA124830,Couple no Kids,Separate House,Rented,1100 - 1649,2,1,0,2,2,0,0,0,0,2,0,0,2,8
+AAAA095016,Couple no Kids,Separate House,Owned,650 - 1099,2,25,0,1,2,0,0,0,0,0,0,0,0,6
+AAAA022528,Couple with Kids,Other,Owned,1100 - 1649,4,11,2,2,2,2,0,0,2,1,1,0,0,12
+AAAA031331,Other HH Structures,Separate House,Rented,650 - 1099,2,11,0,2,2,0,0,0,0,1,0,0,1,4
+AAAA073414,Couple with Kids,Terrace/Townhouse,Rented,1650 - 2499,4,7,0,2,2,1,0,1,0,1,0,0,0,0
+AAAA090833,Couple with Kids,Separate House,Rented,1100 - 1649,5,0,0,1,4,1,0,1,0,0,0,0,0,14
+AAAA145020,Sole Person,Separate House,Owned,<650,1,5,0,1,1,0,0,0,0,0,0,0,0,4
+AAAA113618,Other HH Structures,Separate House,Being Purchased,650 - 1099,2,28,0,2,2,0,0,0,0,0,0,1,0,2
+AAAA053417,Couple with Kids,Separate House,Owned,1650 - 2499,3,24,0,3,3,0,0,0,0,2,0,1,0,0
+AAAA142836,Couple no Kids,Separate House,Owned,<650,2,36,0,0,2,0,0,0,0,0,0,0,0,0
+AAAA133610,Couple with Kids,Separate House,Rented,2500+,5,2,2,2,2,3,0,1,2,1,0,1,0,20
+AAAA073333,Couple with Kids,Separate House,Owned,2500+,5,5,3,2,2,2,0,0,2,1,1,0,5,7
+AAAA131815,Couple with Kids,Separate House,Rented,1650 - 2499,4,0,0,2,2,2,0,1,1,1,0,0,1,11
+AAAA053932,Couple with Kids,Separate House,Being Purchased,2500+,5,2,0,2,2,3,1,2,0,2,0,0,1,7
+AAAA064323,Couple no Kids,Separate House,Owned,650 - 1099,2,15,0,1,2,0,0,0,0,0,0,0,0,28
+AAAA145226,Sole Person,Flat or Apartment,Owned,<650,1,12,0,0,1,0,0,0,0,0,0,0,0,2
+AAAA033428,Other HH Structures,Separate House,Owned,650 - 1099,4,6,0,0,1,1,0,0,1,0,0,0,0,0
+AAAA163539,Couple no Kids,Separate House,Owned,650 - 1099,2,27,0,2,2,0,0,0,0,0,1,0,1,2
+AAAA032836,Sole Person,Separate House,Rented,650 - 1099,1,1,1,1,1,0,0,0,0,0,1,0,1,2
+AAAA205416,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,16,0,3,3,0,0,1,0,1,0,0,1,12
+AAAA052317,Couple no Kids,Separate House,Owned,650 - 1099,2,43,0,1,2,0,0,0,0,0,0,0,1,11
+AAAA052020,Other HH Structures,Separate House,Owned,<650,2,48,0,0,2,0,0,0,0,0,0,0,0,0
+AAAA051430,Couple with Kids,Separate House,Owned,650 - 1099,4,7,2,2,2,0,0,0,0,1,0,0,1,8
+AAAA065517,Couple no Kids,Flat or Apartment,Rented,1650 - 2499,2,1,0,1,2,0,1,0,0,2,0,0,2,4
+AAAA015041,Sole Person,Flat or Apartment,Rented,2500+,1,2,0,1,1,0,0,0,0,1,0,0,0,4
+AAAA053830,Sole Person,Flat or Apartment,Owned,<650,1,17,0,0,1,0,0,0,0,0,0,0,0,0
+AAAA064842,Couple with Kids,Separate House,Rented,2500+,3,4,1,2,2,0,0,0,0,1,1,0,1,5
+AAAA073721,Couple no Kids,Separate House,Owned,650 - 1099,2,37,0,2,2,0,0,0,0,0,0,1,0,10
+AAAA061607,Couple with Kids,Separate House,Being Purchased,2500+,5,19,0,2,2,3,1,3,0,1,0,0,0,29
+AAAA140423,One-Parent,Separate House,Owned,<650,3,2,2,1,1,2,0,0,2,0,1,0,1,10
+AAAA175236,Couple with Kids,Separate House,Rented,1100 - 1649,4,0,0,2,2,2,0,2,0,1,0,0,2,20
+AAAA082838,Couple no Kids,Separate House,Owned,650 - 1099,2,6,0,2,2,0,0,0,0,0,0,0,0,8
+AAAA205212,Sole Person,Separate House,Owned,<650,1,18,0,1,1,0,0,0,0,0,1,0,0,0
+AAAA075134,Couple no Kids,Terrace/Townhouse,Being Purchased,1100 - 1649,2,3,0,2,2,0,0,0,0,1,0,0,0,10
+AAAA065332,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,25,0,4,4,0,1,0,0,1,1,0,0,1
+AAAA154139,Couple no Kids,Separate House,Owned,650 - 1099,2,40,3,2,2,0,0,0,0,0,0,0,0,4
+AAAA091412,Sole Person,Flat or Apartment,Rented,<650,1,25,0,0,1,0,0,0,0,0,0,0,0,2
+AAAA125338,Couple with Kids,Separate House,Being Purchased,<650,3,12,1,2,2,1,0,1,0,0,0,0,0,8
+AAAA013415,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,5,0,2,2,0,0,0,0,1,0,1,1,10
+AAAA054533,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,10,0,1,2,0,0,0,0,1,0,0,1,2
+AAAA104524,Couple with Kids,Separate House,Owned,2500+,3,18,0,2,3,0,0,0,0,1,1,0,3,10
+AAAA104403,Sole Person,Separate House,Owned,650 - 1099,1,22,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA081509,Couple with Kids,Separate House,Being Purchased,2500+,5,4,0,5,2,3,0,0,3,1,0,0,1,12
+AAAA152922,Sole Person,Terrace/Townhouse,Owned,<650,1,4,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA093813,Couple with Kids,Terrace/Townhouse,Being Purchased,650 - 1099,3,2,0,2,2,0,0,0,0,2,0,0,0,2
+AAAA152130,Couple no Kids,Flat or Apartment,Rented,1100 - 1649,2,8,0,2,2,0,1,0,0,1,0,0,5,9
+AAAA085131,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,17,1,2,2,1,0,0,1,1,1,0,0,8
+AAAA164405,Couple no Kids,Separate House,Owned,650 - 1099,2,32,0,2,2,0,0,0,0,0,0,0,0,4
+AAAA151926,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,0,0,2,2,0,1,0,0,2,0,0,2,4
+AAAA150629,Couple with Kids,Separate House,Owned,1650 - 2499,3,19,0,4,3,0,0,0,0,1,0,0,0,2
+AAAA070942,Sole Person,Separate House,Owned,<650,1,3,0,1,1,0,0,0,0,0,0,0,0,4
+AAAA064611,Couple with Kids,Separate House,Being Purchased,2500+,3,3,1,2,2,0,0,0,0,1,1,0,2,4
+AAAA134022,Couple no Kids,Separate House,Owned,<650,2,48,2,2,2,0,0,0,0,0,0,0,0,4
+AAAA045112,Other HH Structures,Separate House,Rented,1650 - 2499,5,0,0,1,5,0,3,0,0,0,1,1,0,0
+AAAA034710,One-Parent,Flat or Apartment,Rented,650 - 1099,3,4,0,1,1,2,0,1,1,0,1,0,1,16
+AAAA025326,Couple with Kids,Separate House,Being Purchased,1100 - 1649,3,10,1,2,2,1,0,1,0,2,0,0,2,7
+AAAA143917,Couple with Kids,Separate House,Owned,1100 - 1649,4,3,0,3,3,0,0,0,0,1,0,0,3,24
+AAAA010008,Couple with Kids,Separate House,Owned,2500+,3,10,2,4,3,0,0,0,0,2,1,0,4,6
+AAAA153542,Couple with Kids,Separate House,Owned,1100 - 1649,5,23,0,2,3,2,0,2,0,1,0,0,1,16
+AAAA010907,Other HH Structures,Separate House,Being Purchased,1100 - 1649,3,3,2,1,3,0,2,0,0,1,0,0,0,15
+AAAA041631,Couple with Kids,Separate House,Owned,<650,6,7,0,1,2,3,0,1,2,0,0,1,0,10
+AAAA195514,Couple with Kids,Flat or Apartment,Being Purchased,1650 - 2499,4,2,1,2,3,1,1,1,0,1,1,0,0,2
+AAAA043432,Couple with Kids,Separate House,Owned,1650 - 2499,3,24,0,3,3,0,0,0,0,3,0,0,2,6
+AAAA043216,Couple no Kids,Separate House,Owned,2500+,2,0,0,2,2,0,1,0,0,2,0,0,0,5
+AAAA063807,Couple with Kids,Separate House,Owned,1650 - 2499,4,7,0,2,2,2,0,1,1,1,0,0,0,14
+AAAA205323,Couple with Kids,Separate House,Rented,1650 - 2499,4,0,0,0,2,1,0,0,1,1,0,0,0,0
+AAAA013929,Couple with Kids,Separate House,Owned,2500+,4,1,0,2,2,2,0,1,1,1,0,0,2,19
+AAAA194710,Couple no Kids,Separate House,Rented,650 - 1099,2,1,0,2,2,0,0,0,0,1,0,1,2,4
+AAAA102807,Couple no Kids,Separate House,Being Purchased,2500+,2,2,0,3,2,0,0,0,0,2,0,0,1,4
+AAAA010611,Couple with Kids,Separate House,Owned,1100 - 1649,5,7,2,3,2,2,0,0,2,1,0,0,1,15
+AAAA084032,Couple no Kids,Separate House,Owned,<650,2,7,1,1,2,0,0,0,0,0,0,0,0,4
+AAAA113515,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,1,1,2,2,0,0,0,0,1,0,0,0,10
+AAAA082708,Couple with Kids,Separate House,Being Purchased,<650,4,3,0,3,3,1,0,1,0,2,1,0,2,8
+AAAA204539,Couple no Kids,Separate House,Owned,650 - 1099,2,28,0,2,2,0,0,0,0,1,1,0,1,2
+AAAA032816,Couple with Kids,Separate House,Being Purchased,2500+,4,14,2,2,2,1,0,0,1,1,1,0,0,6
+AAAA104635,Couple with Kids,Separate House,Owned,650 - 1099,4,8,1,1,2,0,0,0,0,1,0,1,0,0
+AAAA020111,Couple no Kids,Separate House,Owned,650 - 1099,2,12,0,2,2,0,0,0,0,0,0,0,0,10
+AAAA163515,Sole Person,Separate House,Owned,650 - 1099,1,3,2,1,1,0,0,0,0,0,0,0,0,4
+AAAA071030,Sole Person,Separate House,Owned,<650,1,11,0,0,1,0,0,0,0,0,0,0,0,0
+AAAA031104,Other HH Structures,Separate House,Owned,1650 - 2499,3,35,0,1,2,0,0,0,0,1,0,0,1,3
+AAAA120928,Couple no Kids,Separate House,Being Purchased,2500+,2,13,2,3,1,0,0,0,0,1,0,0,0,3
+AAAA150609,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,6,1,2,2,0,0,0,0,1,1,0,1,2
+AAAA143308,Couple with Kids,Separate House,Rented,650 - 1099,3,4,2,2,2,1,0,0,1,1,0,0,1,2
+AAAA153726,Couple with Kids,Separate House,Owned,650 - 1099,3,28,1,2,2,1,0,1,0,0,0,0,0,10
+AAAA064105,Couple with Kids,Separate House,Rented,1100 - 1649,5,2,2,2,3,2,1,1,0,1,0,0,2,20
+AAAA080203,Couple no Kids,Separate House,Owned,1650 - 2499,2,0,0,2,2,0,1,0,0,2,0,0,1,5
+AAAA012128,Couple no Kids,Terrace/Townhouse,Owned,650 - 1099,2,11,0,2,2,0,0,0,0,2,0,0,0,4
+AAAA184141,Couple with Kids,Separate House,Owned,1100 - 1649,6,3,0,2,2,3,0,1,2,1,0,0,0,23
+AAAA060037,Couple with Kids,Separate House,Rented,1100 - 1649,5,4,2,3,2,3,0,1,2,1,0,0,0,27
+AAAA060303,Sole Person,Flat or Apartment,Rented,650 - 1099,1,0,0,3,1,0,0,0,0,1,0,0,1,4
+AAAA022007,Couple with Kids,Separate House,Being Purchased,1100 - 1649,3,2,1,1,2,0,0,0,0,2,0,0,1,11
+AAAA083033,Couple with Kids,Separate House,Owned,1650 - 2499,6,3,1,2,3,3,2,2,0,1,0,0,0,2
+AAAA075305,Couple no Kids,Separate House,Rented,650 - 1099,2,0,0,1,2,0,0,0,0,0,0,0,0,3
+AAAA120927,Couple with Kids,Separate House,Owned,2500+,3,7,1,2,2,0,0,0,0,1,1,0,1,12
+AAAA194902,Couple no Kids,Separate House,Owned,<650,2,48,0,2,2,0,0,0,0,0,0,0,0,18
+AAAA150716,Couple with Kids,Separate House,Owned,1100 - 1649,3,2,0,5,3,0,1,0,0,2,0,0,2,12
+AAAA050830,Sole Person,Separate House,Owned,1100 - 1649,1,0,0,1,1,0,0,0,0,1,0,0,1,5
+AAAA040811,One-Parent,Separate House,Rented,1100 - 1649,2,0,0,2,2,0,0,0,0,1,1,0,1,3
+AAAA082515,Couple with Kids,Separate House,Owned,2500+,5,4,2,4,4,1,1,1,0,2,0,0,3,7
+AAAA013038,Sole Person,Flat or Apartment,Rented,<650,1,7,1,0,1,0,0,0,0,0,0,0,0,5
+AAAA121504,Sole Person,Separate House,Rented,1100 - 1649,1,0,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA063536,Couple with Kids,Separate House,Owned,2500+,3,20,0,2,3,0,0,0,0,1,0,1,1,2
+AAAA055340,Couple no Kids,Separate House,Occupied Rent-Free,1650 - 2499,2,0,0,2,2,0,0,0,0,2,0,0,1,4
+AAAA022111,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,6,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA030324,Sole Person,Separate House,Owned,<650,1,55,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA070438,Sole Person,Terrace/Townhouse,Owned,650 - 1099,1,4,1,1,1,0,0,0,0,0,1,0,3,4
+AAAA022526,One-Parent,Flat or Apartment,Owned,650 - 1099,2,10,0,1,2,0,1,0,0,0,0,0,0,0
+AAAA023724,Other HH Structures,Separate House,Rented,1100 - 1649,3,1,0,2,3,0,0,0,0,2,0,0,1,6
+AAAA174503,Other HH Structures,Separate House,Rented,2500+,2,0,1,1,2,0,0,0,0,1,1,0,2,5
+AAAA095226,Couple no Kids,Separate House,Being Purchased,2500+,2,6,0,3,2,0,0,0,0,2,0,0,2,4
+AAAA044020,Couple with Kids,Separate House,Being Purchased,<650,7,0,2,1,2,4,2,1,2,0,0,0,0,4
+AAAA043716,Couple with Kids,Separate House,Being Purchased,2500+,3,24,0,2,3,0,0,0,0,0,1,2,2,8
+AAAA061839,Other HH Structures,Separate House,Owned,<650,3,44,0,1,3,0,0,0,0,0,0,0,0,12
+AAAA143009,Couple no Kids,Separate House,Rented,650 - 1099,2,0,0,2,2,0,0,0,0,1,1,0,1,13
+AAAA090822,One-Parent,Separate House,Rented,<650,4,5,3,1,1,1,0,0,1,0,0,0,0,5
+AAAA151003,Couple with Kids,Separate House,Being Purchased,650 - 1099,4,10,0,3,2,2,0,1,1,1,0,0,0,15
+AAAA112314,Sole Person,Separate House,Being Purchased,1100 - 1649,1,5,0,1,1,0,0,0,0,1,0,0,1,2
+AAAA050805,Sole Person,Separate House,Owned,<650,1,11,0,1,1,0,0,0,0,0,0,0,0,5
+AAAA134711,Other HH Structures,Separate House,Rented,650 - 1099,2,0,0,3,2,0,1,0,0,0,1,0,0,0
+AAAA064315,Couple no Kids,Separate House,Rented,<650,2,14,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA194516,Sole Person,Separate House,Owned,<650,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA111640,Sole Person,Other,Owned,<650,1,40,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA110820,Sole Person,Separate House,Owned,<650,1,16,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA014027,Couple with Kids,Separate House,Owned,1100 - 1649,4,4,3,2,2,2,0,0,2,1,0,0,0,23
+AAAA094818,Couple no Kids,Other,Owned,<650,2,9,0,2,2,0,0,0,0,0,0,0,0,6
+AAAA011208,Couple no Kids,Terrace/Townhouse,Rented,1650 - 2499,2,0,0,1,2,0,0,0,0,2,0,0,0,4
+AAAA142003,Couple no Kids,Separate House,Owned,1100 - 1649,2,3,1,2,2,0,0,0,0,1,0,0,2,11
+AAAA090641,Sole Person,Terrace/Townhouse,Rented,2500+,1,25,0,1,1,0,0,0,0,1,0,0,0,6
+AAAA072409,Couple with Kids,Separate House,Being Purchased,1100 - 1649,5,17,0,0,3,2,0,1,0,3,0,0,0,17
+AAAA134627,Couple with Kids,Separate House,Being Purchased,2500+,3,4,0,2,2,1,1,1,0,0,1,0,0,9
+AAAA071314,Couple with Kids,Separate House,Owned,650 - 1099,3,5,0,1,2,0,0,0,0,1,1,0,0,12
+AAAA093017,Sole Person,Separate House,Rented,<650,1,0,0,1,1,0,0,0,0,0,0,0,0,4
+AAAA144036,Couple with Kids,Separate House,Being Purchased,2500+,4,8,2,2,2,1,0,0,1,1,0,0,1,8
+AAAA061726,Couple with Kids,Separate House,Owned,1650 - 2499,5,10,2,2,2,3,0,1,2,1,1,0,2,16
+AAAA121626,Sole Person,Separate House,Owned,<650,1,36,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA074734,Couple no Kids,Separate House,Owned,650 - 1099,2,33,0,2,2,0,0,0,0,0,0,0,0,0
+AAAA184708,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,2,1,1,2,0,0,0,0,1,0,0,1,8
+AAAA083139,Couple no Kids,Separate House,Owned,650 - 1099,2,26,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA045540,Couple no Kids,Separate House,Owned,1100 - 1649,2,42,0,2,2,0,0,0,0,0,0,1,0,8
+AAAA194537,Couple with Kids,Separate House,Being Purchased,2500+,4,1,0,2,2,0,0,0,0,1,0,1,1,9
+AAAA195314,Couple with Kids,Separate House,Being Purchased,2500+,3,12,0,2,2,1,0,1,0,2,0,0,0,3
+AAAA030913,Couple with Kids,Separate House,Owned,2500+,4,23,0,6,3,1,1,0,0,2,0,1,0,14
+AAAA060734,Sole Person,Flat or Apartment,Owned,650 - 1099,1,31,0,0,1,0,0,0,0,1,0,0,0,6
+AAAA040422,Couple with Kids,Separate House,Rented,1100 - 1649,4,1,0,2,3,1,0,1,0,2,0,0,2,6
+AAAA154317,One-Parent,Separate House,Being Purchased,<650,2,25,0,1,2,0,2,0,0,1,0,0,1,10
+AAAA053522,Couple no Kids,Separate House,Owned,1100 - 1649,2,29,0,2,2,0,0,0,0,0,0,0,0,8
+AAAA204834,Sole Person,Separate House,Owned,<650,1,5,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA015212,Other HH Structures,Terrace/Townhouse,Rented,2500+,2,2,0,0,2,0,0,0,0,2,0,0,2,5
+AAAA051306,Couple no Kids,Separate House,Owned,<650,2,52,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA104834,Couple with Kids,Separate House,Owned,<650,3,52,0,1,3,0,0,0,0,0,0,0,0,10
+AAAA123233,Sole Person,Separate House,Rented,<650,1,13,0,0,1,0,0,0,0,0,0,0,0,6
+AAAA052715,One-Parent,Separate House,Owned,1100 - 1649,2,3,1,3,2,0,0,0,0,2,0,0,4,12
+AAAA112912,Couple with Kids,Separate House,Owned,1650 - 2499,3,29,0,2,3,0,0,0,0,0,3,0,1,13
+AAAA151531,One-Parent,Separate House,Being Purchased,<650,2,5,2,1,1,0,0,0,0,0,0,0,0,5
+AAAA130437,Couple with Kids,Separate House,Owned,2500+,3,18,0,4,3,0,0,0,0,3,0,0,9,19
+AAAA044601,Couple with Kids,Separate House,Being Purchased,2500+,5,0,0,2,2,3,2,2,0,1,0,0,1,16
+AAAA052637,Couple with Kids,Separate House,Owned,1650 - 2499,3,15,0,3,3,0,0,0,0,2,1,0,1,4
+AAAA014842,Other HH Structures,Flat or Apartment,Rented,2500+,2,8,0,1,2,0,0,0,0,2,0,0,0,2
+AAAA042521,Couple with Kids,Separate House,Owned,2500+,5,6,3,2,2,3,0,1,2,1,1,0,0,10
+AAAA074422,Couple no Kids,Other,Owned,650 - 1099,2,10,0,2,2,0,0,0,0,0,0,0,0,5
+AAAA102707,Couple with Kids,Separate House,Owned,1650 - 2499,3,20,2,2,2,1,0,0,1,1,1,0,0,26
+AAAA025130,One-Parent,Flat or Apartment,Rented,650 - 1099,2,12,0,1,1,1,1,0,0,1,0,0,0,0
+AAAA055011,Couple no Kids,Separate House,Owned,<650,2,56,0,2,2,0,0,0,0,0,0,0,0,10
+AAAA155507,Couple with Kids,Separate House,Rented,<650,4,4,0,2,2,2,0,0,2,1,1,0,0,0
+AAAA014520,Couple no Kids,Terrace/Townhouse,Rented,2500+,2,2,0,1,2,0,0,0,0,2,0,0,0,8
+AAAA154626,Couple with Kids,Separate House,Rented,1100 - 1649,4,0,1,1,2,0,0,0,0,1,0,0,1,14
+AAAA104419,Couple no Kids,Separate House,Owned,1650 - 2499,2,12,1,2,2,0,0,0,0,1,1,0,2,5
+AAAA080605,Sole Person,Flat or Apartment,Being Purchased,650 - 1099,1,5,0,0,1,0,0,0,0,1,0,0,0,0
+AAAA011018,Couple with Kids,Separate House,Owned,2500+,5,11,2,2,2,3,0,1,2,1,1,0,1,20
+AAAA143502,One-Parent,Separate House,Rented,650 - 1099,2,1,0,2,1,1,0,1,0,0,0,1,2,6
+AAAA045009,Sole Person,Flat or Apartment,Rented,1650 - 2499,1,3,0,1,1,0,0,0,0,1,0,0,3,5
+AAAA060615,Sole Person,Flat or Apartment,Rented,<650,1,2,0,1,1,0,0,0,0,0,0,1,1,2
+AAAA011134,Sole Person,Separate House,Owned,<650,1,55,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA060709,Sole Person,Separate House,Owned,<650,1,32,0,1,1,0,0,0,0,0,0,0,0,2
+AAAA070410,Couple with Kids,Separate House,Owned,<650,4,11,3,2,2,1,0,0,1,0,0,0,0,14
+AAAA143127,Couple no Kids,Separate House,Being Purchased,650 - 1099,2,3,0,2,2,0,0,0,0,1,0,0,0,2
+AAAA122406,Couple with Kids,Separate House,Being Purchased,2500+,3,8,0,4,3,0,0,0,0,3,0,0,0,0
+AAAA174906,Couple no Kids,Terrace/Townhouse,Rented,2500+,2,1,1,1,2,0,0,0,0,2,0,0,0,19
+AAAA061225,One-Parent,Separate House,Rented,650 - 1099,2,1,1,1,1,1,0,1,0,1,0,0,1,7
+AAAA204509,Couple with Kids,Terrace/Townhouse,Owned,2500+,4,4,2,1,2,1,0,0,0,2,0,1,1,7
+AAAA044630,Couple with Kids,Separate House,Being Purchased,<650,4,2,1,3,2,2,0,2,0,0,1,0,1,11
+AAAA095112,Couple with Kids,Separate House,Owned,2500+,4,8,3,1,2,0,0,0,0,2,0,0,2,3
+AAAA052909,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,31,0,2,2,0,0,0,0,1,0,0,3,9
+AAAA020206,Other HH Structures,Separate House,Being Purchased,650 - 1099,5,4,0,3,3,2,0,1,0,1,0,0,0,0
+AAAA152414,Couple no Kids,Separate House,Owned,1650 - 2499,2,24,0,2,2,0,0,0,0,2,0,0,0,6
+AAAA124239,Couple with Kids,Separate House,Owned,2500+,4,11,0,2,2,2,0,1,1,2,0,0,1,8
+AAAA061131,Sole Person,Separate House,Owned,<650,1,2,0,1,1,0,0,0,0,0,0,0,0,0
+AAAA154729,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,1,1,2,2,0,0,0,0,2,0,0,2,3
+AAAA120116,Couple no Kids,Separate House,Owned,1100 - 1649,2,26,0,1,2,0,0,0,0,1,0,0,2,6
+AAAA060501,One-Parent,Separate House,Rented,650 - 1099,2,9,0,1,1,1,0,1,0,1,0,0,1,8
+AAAA054640,Couple no Kids,Separate House,Owned,650 - 1099,2,33,0,4,2,0,0,0,0,1,0,0,0,12
+AAAA063730,Couple with Kids,Separate House,Being Purchased,2500+,3,7,0,3,2,0,0,0,0,1,1,0,1,2
+AAAA042331,Couple no Kids,Separate House,Being Purchased,<650,2,19,0,1,2,0,0,0,0,0,0,0,0,2
+AAAA120315,Couple with Kids,Separate House,Owned,2500+,3,9,0,3,3,0,1,0,0,1,1,0,0,0
+AAAA024438,Couple no Kids,Flat or Apartment,Owned,650 - 1099,2,4,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA101625,Couple no Kids,Separate House,Owned,650 - 1099,2,24,0,1,2,0,0,0,0,0,0,0,0,0
+AAAA043225,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,0,0,3,2,2,0,2,0,1,1,0,0,0
+AAAA103823,Couple no Kids,Separate House,Being Purchased,2500+,2,4,1,1,2,0,0,0,0,2,0,0,3,14
+AAAA112934,Couple no Kids,Separate House,Owned,1100 - 1649,2,30,0,3,2,0,0,0,0,1,0,0,2,5
+AAAA060209,Couple with Kids,Separate House,Owned,650 - 1099,5,6,0,2,2,3,0,1,2,0,0,1,1,11
+AAAA062904,Couple with Kids,Separate House,Being Purchased,2500+,4,18,0,2,2,0,0,0,0,1,0,0,1,6
+AAAA144208,Sole Person,Separate House,Rented,<650,1,1,0,1,1,0,0,0,0,1,0,0,0,2
+AAAA050602,Couple with Kids,Terrace/Townhouse,Owned,1650 - 2499,4,25,1,1,4,0,2,0,0,1,1,0,1,12
+AAAA205304,Sole Person,Other,Being Purchased,650 - 1099,1,25,0,1,1,0,0,0,0,0,0,0,0,4
+AAAA151723,Sole Person,Separate House,Owned,<650,1,34,0,0,1,0,0,0,0,0,0,0,0,1
+AAAA064035,Couple with Kids,Separate House,Owned,1100 - 1649,4,1,1,2,2,0,0,0,0,1,0,0,0,2
+AAAA045118,One-Parent,Separate House,Being Purchased,<650,2,27,0,5,2,0,1,0,0,1,0,0,3,9
+AAAA111408,Couple no Kids,Separate House,Owned,650 - 1099,2,27,0,2,2,0,0,0,0,0,0,0,0,7
+AAAA204706,Sole Person,Flat or Apartment,Rented,650 - 1099,1,4,0,1,1,0,0,0,0,1,0,0,0,5
+AAAA125428,Sole Person,Separate House,Being Purchased,650 - 1099,1,28,0,2,1,0,0,0,0,0,0,1,1,4
+AAAA122942,Couple with Kids,Separate House,Owned,<650,5,1,1,1,2,3,0,0,2,1,0,1,0,3
+AAAA131541,Couple no Kids,Separate House,Owned,<650,2,6,0,2,2,0,0,0,0,0,2,0,2,4
+AAAA040620,Other HH Structures,Separate House,Owned,1100 - 1649,2,46,0,2,2,0,0,0,0,1,0,0,0,6
+AAAA014910,Couple no Kids,Separate House,Owned,650 - 1099,2,25,2,1,2,0,0,0,0,0,0,0,0,2
+AAAA084024,Couple no Kids,Separate House,Owned,<650,2,22,0,1,2,0,0,0,0,0,0,0,0,4
+AAAA055515,Couple no Kids,Separate House,Owned,650 - 1099,2,40,0,2,2,0,0,0,0,0,0,0,0,4
+AAAA081507,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,8,2,2,2,2,0,0,2,1,1,0,0,16
+AAAA012738,Couple no Kids,Separate House,Owned,1100 - 1649,2,13,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA101928,One-Parent,Separate House,Being Purchased,1650 - 2499,5,21,3,2,2,3,0,0,3,2,0,0,0,25
+AAAA033840,One-Parent,Separate House,Rented,650 - 1099,3,12,0,1,3,0,1,0,0,0,0,0,1,10
+AAAA061604,Couple no Kids,Separate House,Rented,1100 - 1649,2,2,0,2,2,0,0,0,0,2,0,0,2,4
+AAAA033339,Couple no Kids,Separate House,Owned,1100 - 1649,2,10,0,2,2,0,0,0,0,0,2,0,1,4
+AAAA032905,Couple no Kids,Terrace/Townhouse,Owned,2500+,2,2,2,2,2,0,0,0,0,2,0,0,2,8
+AAAA144725,Couple with Kids,Separate House,Owned,2500+,4,25,0,4,4,0,0,0,0,2,0,0,1,15
+AAAA073741,Couple no Kids,Separate House,Rented,650 - 1099,2,5,0,1,2,0,0,0,0,0,0,0,0,6
+AAAA135105,Couple no Kids,Terrace/Townhouse,Owned,2500+,2,1,0,2,2,0,0,0,0,0,1,1,1,6
+AAAA091236,Couple with Kids,Separate House,Owned,1650 - 2499,4,7,0,2,2,2,0,0,2,1,1,0,6,11
+AAAA094440,Couple no Kids,Other,Owned,650 - 1099,2,1,0,1,2,0,0,0,0,0,0,0,0,4
+AAAA082732,Other HH Structures,Separate House,Being Purchased,650 - 1099,6,10,1,3,5,1,2,1,0,1,0,0,1,8
+AAAA194432,Sole Person,Separate House,Owned,<650,1,34,1,0,1,0,0,0,0,1,0,0,1,3
+AAAA101536,Couple no Kids,Separate House,Being Purchased,1100 - 1649,2,7,0,2,2,0,0,0,0,1,0,0,1,1
+AAAA195418,Couple with Kids,Separate House,Being Purchased,1650 - 2499,4,3,1,2,2,1,0,0,1,1,1,0,1,13
+AAAA184822,Couple no Kids,Separate House,Owned,2500+,2,18,0,2,2,0,0,0,0,0,0,0,0,5
+AAAA082205,Couple with Kids,Separate House,Owned,650 - 1099,4,4,1,2,1,1,0,0,1,1,0,0,1,4
+AAAA014205,Other HH Structures,Flat or Apartment,Rented,1650 - 2499,2,0,2,1,2,0,0,0,0,2,0,0,1,6
+AAAA033024,Couple no Kids,Other,Rented,1650 - 2499,2,0,1,1,2,0,0,0,0,1,1,0,2,8
+AAAA034732,Couple no Kids,Separate House,Owned,650 - 1099,2,40,0,2,2,0,0,0,0,0,0,0,0,3
+AAAA111814,Couple with Kids,Separate House,Owned,1650 - 2499,3,14,0,2,2,1,0,0,1,1,1,0,0,5
+AAAA070707,Couple no Kids,Separate House,Owned,650 - 1099,2,53,0,1,2,0,0,0,0,0,0,0,0,4
+AAAA074831,Couple with Kids,Separate House,Being Purchased,1650 - 2499,4,2,0,2,3,1,1,1,0,2,0,0,2,4
+AAAA143935,Couple no Kids,Separate House,Owned,1650 - 2499,2,35,0,1,2,0,1,0,0,0,0,1,0,2
+AAAA163301,Couple no Kids,Separate House,Rented,650 - 1099,2,2,0,2,2,0,0,0,0,1,0,0,0,0
+AAAA194122,Couple no Kids,Separate House,Owned,2500+,2,8,0,3,2,0,1,0,0,2,0,0,1,6
+AAAA120131,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,3,0,3,2,1,0,1,0,1,1,0,4,10
+AAAA073820,Couple no Kids,Separate House,Being Purchased,2500+,2,2,2,2,2,0,0,0,0,2,0,0,0,15
+AAAA144729,Couple with Kids,Separate House,Being Purchased,1650 - 2499,3,4,0,2,3,0,0,0,0,1,1,1,2,4
+AAAA011434,Couple with Kids,Terrace/Townhouse,Being Purchased,2500+,4,4,0,1,2,0,0,0,0,2,0,0,0,12
+AAAA031541,Couple with Kids,Separate House,Being Purchased,1100 - 1649,3,5,0,1,2,0,1,0,0,1,0,0,0,7
+AAAA133823,Other HH Structures,Separate House,Owned,650 - 1099,3,27,0,2,3,0,1,0,0,0,0,0,0,6
+AAAA065028,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,13,3,2,2,2,0,0,2,1,0,0,0,4
+AAAA063836,Other HH Structures,Separate House,Being Purchased,1650 - 2499,4,6,1,3,3,0,0,0,0,1,1,0,2,4
+AAAA054232,Couple with Kids,Separate House,Owned,650 - 1099,3,54,0,1,3,0,0,0,0,1,0,0,0,3
+AAAA103004,Other HH Structures,Flat or Apartment,Rented,1650 - 2499,2,0,0,2,2,0,0,0,0,2,0,0,2,5
+AAAA164609,Sole Person,Separate House,Owned,<650,1,5,0,1,1,0,0,0,0,0,1,0,0,5
+AAAA065440,Sole Person,Terrace/Townhouse,Being Purchased,1650 - 2499,1,2,1,1,1,0,0,0,0,1,0,0,3,5
+AAAA022027,Sole Person,Separate House,Owned,1100 - 1649,1,3,1,1,1,0,0,0,0,1,0,0,0,0
+AAAA080609,Couple no Kids,Separate House,Owned,1100 - 1649,2,2,0,1,2,0,0,0,0,0,0,1,0,11
+AAAA044901,Couple with Kids,Separate House,Being Purchased,1100 - 1649,4,17,0,2,2,2,0,2,0,1,1,0,2,16
+AAAA044915,Couple no Kids,Separate House,Owned,1650 - 2499,2,24,2,2,2,0,0,0,0,0,2,0,2,5
+AAAA031321,Sole Person,Separate House,Being Purchased,650 - 1099,1,5,0,1,1,0,0,0,0,1,0,0,0,2
+AAAA043801,Couple with Kids,Separate House,Owned,2500+,4,22,0,3,3,1,0,1,0,2,1,0,4,18
+AAAA031532,Couple no Kids,Separate House,Being Purchased,1650 - 2499,2,15,2,2,2,0,0,0,0,1,1,0,3,11
+AAAA034913,Other HH Structures,Flat or Apartment,Rented,1100 - 1649,3,2,0,0,3,0,3,0,0,0,0,0,1,6
+AAAA153335,Sole Person,Separate House,Owned,650 - 1099,1,37,0,1,1,0,0,0,0,0,1,0,1,2
+AAAA131418,Other HH Structures,Separate House,Rented,650 - 1099,8,4,0,2,4,4,0,1,3,0,0,0,0,26
